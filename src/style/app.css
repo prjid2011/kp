@@ -1,0 +1,22 @@
+
+body {
+  background: #ffffff;
+  color: #000;
+}
+
+a {
+  color: #03A9F4;
+}
+
+main {
+  font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  padding: 1em;
+  margin: auto;
+}
+
+.btn-default {
+  color: #fff;
+  background-color: gray;
+  border-color: gray;
+}

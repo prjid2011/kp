@@ -1,0 +1,5 @@
+Used in App:
+https://developer.snapappointments.com/bootstrap-select/
+https://lokesh-coder.github.io/pretty-checkbox/
+----------
+https://stackoverflow.com/questions/42022662/webpack-angularjs-1-6-1es6-and-scss-packaging

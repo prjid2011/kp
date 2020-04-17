@@ -1,0 +1,52 @@
+.sellerList{
+    table{
+        thead, tbody {
+            tr{
+                th, td {
+                    padding: 5px 20px;
+                    color: #333;
+                    vertical-align: middle;
+        
+                    &:nth-child(1) {
+                        width: 30%;
+                    }
+                    &:nth-child(2) {
+                        width: 15%;
+                    }
+                    &:nth-child(3) {
+                        width: 15%;
+                    }
+                    &:nth-child(4) {
+                        width: 10%;
+                        text-align: center;
+                        min-width: 135px;
+                    }
+                    &:nth-child(5) {
+                        width: 15%;
+                        text-align: center;
+                        min-width: 135px;
+                    }
+                    &:nth-child(6) {
+                        width: 7%;
+                        text-align: center;
+                    }
+                    &:nth-child(7) {
+                        width: 8%;
+                        text-align: center;
+                    }                    
+                }  
+            }
+        }
+        tr {
+            height: 40px;
+            line-height: 20px;
+        }
+        thead {
+            height: 40px;
+        }
+        .action-edit, .action-delete{
+            cursor: pointer;
+            display: block;
+        }
+    }
+}
